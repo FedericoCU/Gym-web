@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Gym-web/static/css/main.bb1fca0d.css",
-    "main.js": "/Gym-web/static/js/main.494e772f.js",
-    "static/media/banner.png": "/Gym-web/static/media/banner.5209b5e92a864ca0c615.png",
-    "static/media/gym.png": "/Gym-web/static/media/gym.6e701417c428e2fbc267.png",
-    "index.html": "/Gym-web/index.html",
-    "main.bb1fca0d.css.map": "/Gym-web/static/css/main.bb1fca0d.css.map",
-    "main.494e772f.js.map": "/Gym-web/static/js/main.494e772f.js.map"
+    "main.css": "/static/css/main.bb1fca0d.css",
+    "main.js": "/static/js/main.9c7b090b.js",
+    "static/media/banner.png": "/static/media/banner.5209b5e92a864ca0c615.png",
+    "static/media/gym.png": "/static/media/gym.6e701417c428e2fbc267.png",
+    "index.html": "/index.html",
+    "main.bb1fca0d.css.map": "/static/css/main.bb1fca0d.css.map",
+    "main.9c7b090b.js.map": "/static/js/main.9c7b090b.js.map"
   },
   "entrypoints": [
     "static/css/main.bb1fca0d.css",
-    "static/js/main.494e772f.js"
+    "static/js/main.9c7b090b.js"
   ]
 }
